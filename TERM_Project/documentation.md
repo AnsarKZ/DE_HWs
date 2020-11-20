@@ -1,6 +1,6 @@
 
-Markup :  # Super Mario World Maker (a game where people create Super Mario maps and play them) #
-Markup :  ## Data retrieved from: https://www.kaggle.com/leomauro/smmnet?select=courses.csv ##
+# Super Mario World Maker (a game where people create Super Mario maps and play them) #
+## Data retrieved from: https://www.kaggle.com/leomauro/smmnet?select=courses.csv ##
 
 Table name    | Whats in it?
 ------------- | -------------
