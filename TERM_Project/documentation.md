@@ -23,5 +23,5 @@ whats the avg time it takes to "clear" them?
 how hard were the maps?
 and etc.
 
-## the EER diagram ##
+# The EER diagram #
 this is the Enhanced entity-relationship graph that shows the tables within the dataset and the columns that it consists of (also you can see the prettier version as a png)
